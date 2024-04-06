@@ -1,6 +1,6 @@
 {
-    "name": "simplesm",
-    "short_name": "simplesm",
+    "name": "mtmarchive",
+    "short_name": "mtmarchive",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
